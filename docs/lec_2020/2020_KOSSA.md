@@ -2,7 +2,7 @@
 layout: default
 grand_parent: Lectures
 parent: 2020
-title: (KOSSA)AI & Deep Learning
+title: (KOSSA) AI와 딥러닝
 nav_order: 2
 ---
 
