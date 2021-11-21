@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 강의정보
-nav_order: 2
+title: Lectures
+nav_order: 3
 has_children: true
 permalink: /docs/lectures
 ---
