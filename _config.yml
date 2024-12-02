@@ -30,7 +30,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 # include: ["docs/tests/"]
 
 # 제목 대신 표시될 로고로 path/url 설정
-#logo: "/assets/images/aidalab_logo.png"
+logo: "/assets/images/aidalab_logo.png"
 
 # 사이트 검색 활성화 또는 비활성화
 # 참(기본값) 또는 거짓을 지원합니다.
