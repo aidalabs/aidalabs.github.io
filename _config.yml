@@ -11,7 +11,7 @@
 # HTML 파일을 보면 {{site.title}}, {{site.github_repo}} 등을 통해 액세스할 수 있습니다.
 # 원하는 사용자 지정 변수를 만들 수 있으며, 템플릿에서 {{site.myvariable }}을 통해 액세스할 수 있습니다.
 locale: "ko-KR"
-masthead_title: "AiDALab Lectures"
+masthead_title: "AiDALab 강의"
 title: "AiDALab Lectures"
 subtitle: "Version 1.0"
 description: "AiDALab 강의 자료 개발 블로그"
