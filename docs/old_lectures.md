@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Lectures
+title: 지난 강의 목록
 nav_order: 3
 has_children: true
 permalink: /docs/old_lectures
 ---
 
-# **지난 강의목록**
+# **지난 강의 목록**
 
 
 **2024.06.03\~2024.06.14 고속도로 CCTV 기반 차종 인식 프로젝트 교육과정**

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Profile
-nav_order: 2
+title: 저자 프로필
+nav_order: 1
 permalink: /docs/
 ---
 

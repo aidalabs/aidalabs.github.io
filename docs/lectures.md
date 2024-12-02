@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lectures
+title: 진행 중 강의
 nav_order: 2
 has_children: true
 permalink: /docs/lectures
