@@ -2,7 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
-description: "AiDALab의 강의 자료를 개발합니다."
+description: "AiDALab의 강의자료를 개발 및 공유합니다."
 permalink: /
 ---
 
