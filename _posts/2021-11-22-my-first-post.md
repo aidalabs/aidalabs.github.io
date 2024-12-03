@@ -1,6 +1,6 @@
 ---
 title:  "Github 블로그 생성 성공"
-excerpt: "Jekyll을 적용하여 Github Blog의 생성에 성공하였다. 테마는 Just the Docs 테마를 선택했는데 의외로 사용하는 사람이 적은 것 같다. 카테고리를 적용하기에 좋은 테마라고 생각했는데.. 웹에서 흔히 소개하는 것처럼 Ruby 등을 반드시 설치해야 할 필요는 없어 보인다."
+excerpt: "Jekyll을 적용하여 Github Blog의 생성에 성공하였다. Jekyll을 설치할 때 웹에서 흔히 소개하는 것처럼 Ruby 등을 반드시 설치해야 할 필요는 없어 보인다. 테마는 Just the Docs 테마를 선택했는데 의외로 사용하는 사람이 적은 것 같다. "
 
 categories:
   - Blog
