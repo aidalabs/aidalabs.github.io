@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Home
+layout: home
 nav_order: 1
 description: "AiDALab의 강의 자료를 개발합니다."
 permalink: /
