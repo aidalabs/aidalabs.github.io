@@ -3,7 +3,7 @@ layout: default
 title: Lecture Materials
 nav_order: 2
 has_children: true
-permalink: /docs/lecture_materials
+permalink: /docs/lecture_materials/
 ---
 
 # **Lecture Materials (강의 자료)**

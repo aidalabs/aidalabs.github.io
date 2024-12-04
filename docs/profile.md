@@ -2,7 +2,7 @@
 layout: default
 title: Profile
 nav_order: 1
-permalink: /docs/profile
+permalink: /docs/profile/
 ---
 
 # **Profile**

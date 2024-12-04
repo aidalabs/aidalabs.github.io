@@ -1,11 +1,13 @@
 # main links
 main:
+  - title: "Profile"
+    url: "/docs/profile/"
   - title: "Blog"
     url: "/"
   - title: "Lectures"
-    url: "/lectures/"
+    url: "/docs/lectures/"
   - title: "Lecture Materials"
-    url: "/lecture_materials/"
+    url: "/docs/lecture_materials/"
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
