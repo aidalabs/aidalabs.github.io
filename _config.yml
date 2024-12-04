@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -20,8 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "AiDALab Lectures"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "AiDA"
-description              : "An amazing website."
+name                     : "Seokhwan Yang"
+description              : "AiDALab의 강의 자료를 개발, 공유하는 블로그"
 url                      : "https://aidalabs.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aidalabs/aidalabs.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,52 +113,52 @@ analytics:
 
 # Site Author
 author:
-  name             : "AiDA"
+  name             : "Seokhwan Yang(AiDA)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. in C.E (AI/ML/DL)"
-  location         : "Somewhere"
+  bio              : "Ph.D. in C.E (AI/ML/DL)<br>AI와 IT기술을 중심으로 하는<br>다양한 강의와 SW 개발을<br>진행하고 있습니다.<br>다양한 분야에 관심이 있습니다."
+  location         : "Republic of Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "mailto:aidalab@kakao.com"
+    - label: "Personal Blog"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      url: "https://aidalab.tistory.com"
+    # - label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    # - label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/aidalabs/"
+    # - label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:aidalab@kakao.com"
+    - label: "Personal Blog"
+      icon: "fas fa-fw fa-link"
+      url: "https://aidalab.tistory.com"
+    # - label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    # - label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/aidalabs/"
+    # - label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 
 # Reading Files
