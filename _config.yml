@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Seokhwan Yang(AiDA)"
+  name             : "AiDA"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. in C.E (AI/ML/DL)<br>AI와 IT기술을 중심으로 하는<br>다양한 강의와 SW 개발을<br>진행하고 있습니다.<br>다양한 분야에 관심이 있습니다."
+  bio              : "**Ph.D. in C.E (AI/ML/DL)**<br><br>AI와 IT기술을 중심으로 하는<br>다양한 강의와 SW 개발을<br>진행하고 있습니다.<br>다양한 분야에 관심이 있습니다."
   location         : "Republic of Korea"
   email            :
   links:
