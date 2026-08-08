@@ -1,1 +1,1 @@
-# aidalab.github.io
+# aidalabs.github.io
